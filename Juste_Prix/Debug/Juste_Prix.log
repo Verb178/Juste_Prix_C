@@ -1,0 +1,3 @@
+﻿  Principal.cpp
+C:\Users\3asba\source\repos\Juste_Prix\Juste_Prix\Principal.cpp(5,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+  Juste_Prix.vcxproj -> C:\Users\3asba\source\repos\Juste_Prix\Debug\Juste_Prix.exe
